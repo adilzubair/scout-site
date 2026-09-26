@@ -10,5 +10,4 @@ Download the portable ZIP, extract the entire folder, and run `Scout.exe`.
 Press **Ctrl+Alt+Space** to open it. The beta is unsigned and has no installer
 or automatic updater.
 
-This repository contains the public website and release downloads. The
-application source is kept in a separate private repository.
+This repository contains the public website and release downloads.
