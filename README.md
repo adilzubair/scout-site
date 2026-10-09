@@ -14,3 +14,10 @@ This beta is unsigned, so Windows may show an unknown-publisher or SmartScreen
 warning. Updates are manual; there is no automatic updater.
 
 This repository contains the public website and release downloads.
+
+## Subdomain redirect
+
+`vercel.json` configures a separate Vercel deployment to forward all requests to
+`https://adilzubair.github.io/scout-site/` with an HTTP 308 permanent redirect.
+Connect `scout.muhamedadil.com` to the `scout-redirect` project. DNS is managed by
+Vercel; the portfolio remains attached to the main domain.
