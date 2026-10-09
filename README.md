@@ -3,7 +3,7 @@
 Scout is a Windows 11 launcher for finding files, apps, links, and saved
 workspaces from one keyboard shortcut.
 
-- [Website](https://adilzubair.github.io/scout-site/)
+- [Website](https://scout.muhamedadil.com/)
 - [Download the Windows beta](https://github.com/adilzubair/scout-site/releases/tag/v0.1.0-beta.2)
 
 Download `Scout-Setup.exe`, run it without admin access, and press
@@ -15,9 +15,11 @@ warning. Updates are manual; there is no automatic updater.
 
 This repository contains the public website and release downloads.
 
-## Subdomain redirect
+## Custom domain hosting
 
-`vercel.json` configures a separate Vercel deployment to forward all requests to
-`https://adilzubair.github.io/scout-site/` with an HTTP 308 permanent redirect.
-Connect `scout.muhamedadil.com` to the `scout-redirect` project. DNS is managed by
-Vercel; the portfolio remains attached to the main domain.
+Vercel serves this repository's static website directly at
+`https://scout.muhamedadil.com/`. The `scout-redirect` project retains its original
+name but no longer forwards visitors to GitHub Pages. DNS and HTTPS are managed
+by Vercel. Changes pushed to `main` automatically deploy the website.
+
+GitHub Pages remains available at `https://adilzubair.github.io/scout-site/`.

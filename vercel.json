@@ -1,11 +1,4 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "framework": null,
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://adilzubair.github.io/scout-site/",
-      "permanent": true
-    }
-  ]
+  "framework": null
 }
