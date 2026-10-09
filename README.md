@@ -4,7 +4,7 @@ Scout is a Windows 11 launcher for finding files, apps, links, and saved
 workspaces from one keyboard shortcut.
 
 - [Website](https://adilzubair.github.io/scout-site/)
-- [Download the Windows beta](https://github.com/adilzubair/scout-site/releases/tag/v0.1.0-beta.1)
+- [Download the Windows beta](https://github.com/adilzubair/scout-site/releases/tag/v0.1.0-beta.2)
 
 Download `Scout-Setup.exe`, run it without admin access, and press
 **Ctrl+Alt+Space** to open Scout. Setup creates Start menu shortcuts for Scout
