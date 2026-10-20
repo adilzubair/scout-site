@@ -5,10 +5,10 @@ controlling everyday PC settings, and reopening saved workspaces from one
 keyboard shortcut.
 
 - [Website](https://scout.muhamedadil.com/)
-- [Download the Windows beta](https://github.com/adilzubair/scout-site/releases/tag/v0.1.0-beta.2)
+- [Download the Windows beta](https://github.com/adilzubair/scout-site/releases/tag/v0.1.0-beta.3)
 
 Download `Scout-Setup.exe`, run it without admin access, and press
-**Ctrl+Alt+Space** to open Scout. Setup creates Start menu shortcuts for Scout
+**Ctrl+Space** to open Scout. Setup creates Start menu shortcuts for Scout
 and its uninstaller. The portable `Scout-win-x64.zip` is also available.
 
 This beta is unsigned, so Windows may show an unknown-publisher or SmartScreen
