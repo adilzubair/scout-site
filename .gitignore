@@ -1,0 +1,16 @@
+# Local hosting configuration and secrets
+.vercel/
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local preview caches
+__pycache__/
+*.py[cod]

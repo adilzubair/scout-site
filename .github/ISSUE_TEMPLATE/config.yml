@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Scout application bugs and feature requests
+    url: https://github.com/adilzubair/scout/issues
+    about: Report launcher behavior and Windows installation problems in the application repository.
+  - name: Scout user guide
+    url: https://github.com/adilzubair/scout/blob/main/docs/USER_GUIDE.md
+    about: Find installation instructions, keyboard shortcuts, and help with Scout settings.
